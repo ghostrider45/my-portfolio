@@ -1,9 +1,15 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+*{
+    margin: 0%;
+    padding: 0%;
 }
-
+.top-nav{
+    display: inline-flex;
+    margin-left: 980px;
+    margin-top: -10px;
+}
+a{
+    color: white;
+}
 body {
     background-color: black;
     color: white;
@@ -17,21 +23,16 @@ body {
     flex-direction: column;
     justify-content: space-between;
 }
-
-.top-nav {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-    background-color: black;
-    padding: 10px 20px;
+.top{
+    height: 60px;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
 }
-
-.top-nav nav {
-    margin-left: auto;
+.top-nav nav{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: larger;
 }
 
 a:hover {
@@ -39,7 +40,6 @@ a:hover {
 }
 
 #name1 {
-    margin-top: 20px;
     font-size: 25px;
 }
 
@@ -53,26 +53,10 @@ a:hover {
     text-align: center;
 }
 
-button {
-    width: 90px;
-    height: 38px;
-    font-weight: 500;
-    color: white;
-    margin: 10px;
-    border: none;
-    cursor: pointer;
-}
-
-.btn1 {
-    background-color: rgb(184, 79, 79);
-    border-color: red;
-    border-radius: 5%;
-}
-
-.btn2 {
-    background-color: black;
-    border-color: red;
-    border-radius: 5%;
+.contact1 button {
+    width: 200px;
+    display: flex;
+    flex-direction: row;
 }
 
 h1 {
@@ -82,6 +66,7 @@ h1 {
 
 img {
     max-width: 100%;
+    width: 550px;
     height: auto;
     margin-top: 20px;
     box-shadow: 12px 13px 10px rgb(55, 49, 120);
@@ -103,10 +88,19 @@ img {
 }
 
 .contact {
-    text-align: right;
+    text-align: center;
     margin-top: 20px;
 }
 
 .contact p {
     margin-left: -25px;
 }
+.connect a{
+    width: 30px;
+    height: 30px;
+}
+.connect{
+    margin-top: 20px;
+    text-align: center;
+}
+
