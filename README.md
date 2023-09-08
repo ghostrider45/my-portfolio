@@ -24,27 +24,26 @@ RESULTS:
        ![image](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/985bb0b3-9c87-496e-b072-782c1a4b0e84)
 
     
-       
-     2)OUTPUTS:
-      ![Screenshot (132)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/637571ca-cab5-45cf-a0c5-8bf11df40114)
+   2)OUTPUTS :    
+   ![Screenshot (132)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/637571ca-cab5-45cf-a0c5-8bf11df40114)
       
-      ![Screenshot (133)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/f7d2de9e-fd96-4ea4-a129-83832174bfc3)
+   ![Screenshot (133)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/f7d2de9e-fd96-4ea4-a129-83832174bfc3)
       
-      ![Screenshot (134)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/447d5c3d-7c62-4ecd-bd96-18bd2cbdf7b5)
+   ![Screenshot (134)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/447d5c3d-7c62-4ecd-bd96-18bd2cbdf7b5)
       
-      ![Screenshot (135)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/6c6f5ef1-596a-4437-b9e1-f9ca96165041)
+   ![Screenshot (135)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/6c6f5ef1-596a-4437-b9e1-f9ca96165041)
       
-      ![Screenshot (136)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/5fb81eb0-b532-4cbe-b274-edf78c2743fa)
+   ![Screenshot (136)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/5fb81eb0-b532-4cbe-b274-edf78c2743fa)
       
-      ![Screenshot (137)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/403676bf-7e40-4cb0-92cb-689a1b2a795a)
+   ![Screenshot (137)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/403676bf-7e40-4cb0-92cb-689a1b2a795a)
       
-      ![Screenshot (138)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/7e46f14a-dd08-47af-94e9-273abc639eff)
+   ![Screenshot (138)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/7e46f14a-dd08-47af-94e9-273abc639eff)
       
-      ![Screenshot (139)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/78b0d96d-f8e0-4f82-a5a0-1f5cbe22ea13)
+   ![Screenshot (139)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/78b0d96d-f8e0-4f82-a5a0-1f5cbe22ea13)
       
-      ![Screenshot (140)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/9fe711aa-ab95-4199-90b5-493afda5e647)
+   ![Screenshot (140)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/9fe711aa-ab95-4199-90b5-493afda5e647)
       
-      ![Screenshot (141)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/de4d30fc-d8e6-4386-b0d8-ccb3c54b9723)
+   ![Screenshot (141)](https://github.com/ghostrider45/Microsoft-internship/assets/98375431/de4d30fc-d8e6-4386-b0d8-ccb3c54b9723)
       
 
      
